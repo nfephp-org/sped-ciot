@@ -1,0 +1,10 @@
+{
+    "name": "vendor/sped-efrete",
+    "authors": [
+        {
+            "name": "Marcio Souza",
+            "email": "marcio.ti.souza@gmail.com"
+        }
+    ],
+    "require": {}
+}
