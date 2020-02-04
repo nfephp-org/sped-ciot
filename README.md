@@ -4,7 +4,7 @@ Framework para comunicação e geração do CIOT.
 
 *sped-efrete é um framework para comunicação e geração do CIOT.*
 
-## Seguradoras Atendidas
+## Empresas Credenciadas
 
 Nesta primeira versão estamos atendendo a E-FRETE, mas iremos também atender outras empresas credenciadas para o pagamento do frete. Caso alguém tenha outras necessidades favor entrar em contato.
 
