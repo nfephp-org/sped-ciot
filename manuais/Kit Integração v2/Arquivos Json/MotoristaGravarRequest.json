@@ -1,0 +1,30 @@
+﻿{
+  "Integrador": "e9057ef3-e9e0-3899-e3ab-fc1af5734ffa",
+  "Versao": 2,
+  "CNH": -----,
+  "CPF": 484684549,
+  "Nome": "Nome do Motorista",
+  "DataNascimento": "1979-01-01",
+  "NomeDeSolteiraDaMae": "NomeDeSolteiraDaMae",
+  "Endereco": {
+	"Numero": "SN",
+    "Bairro": "BAIRRO",
+    "CEP": "4484-999",
+    "CodigoMunicipio": 488555,
+    "Rua": "RUA DAS , 12"
+  },
+  "Telefones": {
+    "Celular": {
+      "DDD": ,
+      "Numero": 
+    },
+    "Fax": {
+      "DDD": 0,
+      "Numero": 0
+    },
+    "Fixo": {
+      "DDD": 0,
+      "Numero": 0
+    }
+  }
+}

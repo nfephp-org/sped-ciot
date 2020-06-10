@@ -1,0 +1,14 @@
+b3fc7a2cda6d0a9f25a1a60bbc6ea5eb,EcosVCash.dll
+ac1ed3b7c6cdf34ea5694572303620e6,IPC.eFRETE.LeitoresCartao.exe
+3f9b7c50015ca8be5ec84127bb37e2cb,IPC.eFRETE.LeitoresCartao.exe.config
+1bc0eff9f97db4c85013cbefd54071cc,IPC.eFRETE.ValePedagio.exe
+031a991f17b54508f1654084be7b2b13,IPC.eFRETE.ValePedagio.exe.config
+4cabe0314c2c392b39c062e20852400e,IPC.eFRETE.ValePedagio.XmlSerializers.dll
+e3b4077eeb806428d4a207e2e6a04eff,IPC.eFRETE.WebServices.Console.exe
+78a7059610ee64201289ba9a9ae186ad,IPC.Winscard.dll
+ab94b093721d516f13663e122f6234ef,libjECOSVCASH.so
+f96cb2749b83e4f52f88f89beb315e00,Linux_Leia_Me.txt
+50e99715c03c865768226ddf9239bc86,list_readers.py
+f33cbe589b769956284868104686cc2d,Newtonsoft.Json.dll
+a74ecfb3099a6ae0fdb72cd0bcb4f84c,IPC.eFRETE.WebServices.Atualizador.exe
+e176a1ee230aaf1a30d8342ba05b52a0,IPC.eFRETE.WebServices.Atualizador.exe.config
